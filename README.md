@@ -1,4 +1,4 @@
-<h1 align= "center"> Olá, me chamo Arthur 🪐 </h1>
+<h1 align= "center"> Olá, me chamo Arthur! 🪐 </h1>
 <h2>Algumas curiosidades:</h2>
 
 <p>🏫 Curso de ADS em andamento
