@@ -4,7 +4,7 @@
 <p>🏫 Curso de ADS em andamento
 <p>🔎 Atualmente estou focado no frontend
 <p>⁉️ Sou muito curioso para aprender sobre novas tecnologias para design e cybersegurança
-<p>💻 Já tive experiência na área de redes 
+<p>💻 Conhecimento básico na área de redes 
   
 <h2>Técnologias e Ferramentas utilizadas e que ainda estão em aprendizado:</h2>
 <div>
